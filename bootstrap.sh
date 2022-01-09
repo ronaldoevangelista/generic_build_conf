@@ -2,7 +2,7 @@
 
 AUTOPROJ_INSTALL_URL=https://raw.githubusercontent.com/rock-core/autoproj/master/bin/autoproj_install
 
-BOOTSTRAP_URL=git@github.com:Brazilian-Institute-of-Robotics/bir.overview-buildconf.git
+BOOTSTRAP_URL=git@github.com:Brazilian-Institute-of-Robotics/generic_build_conf.git
 
 PWD=$(pwd)
 
